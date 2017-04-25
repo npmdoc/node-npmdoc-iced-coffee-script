@@ -1,4 +1,7 @@
-# api documentation for  [iced-coffee-script (v108.0.11)](http://maxtaco.github.io/coffee-script)  [![npm package](https://img.shields.io/npm/v/npmdoc-iced-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-iced-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-iced-coffee-script.svg)](https://travis-ci.org/npmdoc/node-npmdoc-iced-coffee-script)
+# npmdoc-iced-coffee-script
+
+#### basic api documentation for  [iced-coffee-script (v108.0.11)](http://maxtaco.github.io/coffee-script)  [![npm package](https://img.shields.io/npm/v/npmdoc-iced-coffee-script.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-iced-coffee-script) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-iced-coffee-script.svg)](https://travis-ci.org/npmdoc/node-npmdoc-iced-coffee-script)
+
 #### IcedCoffeeScript
 
 [![NPM](https://nodei.co/npm/iced-coffee-script.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/iced-coffee-script)
